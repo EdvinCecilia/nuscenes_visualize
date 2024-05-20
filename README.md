@@ -2,7 +2,7 @@
 
 此项目提供了一套使用Python加载和可视化NuScenes数据集的工具。主要功能包括加载图像、投影3D对象到2D图像、显示注释信息等。
 
-![CAM_BACK](save\CAM_BACK.jpg)
+![CAM_BACK](save/CAM_BACK.jpg)
 
 **主要在于可以通过输入一张图片的名字，获取其ID，并将投影后的图片绘制保存。**
 
