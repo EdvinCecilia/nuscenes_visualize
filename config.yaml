@@ -1,0 +1,4 @@
+nuscenes_path: 'v1.0-mini'  # 数据集路径
+image_filename: "n008-2018-08-01-15-16-36-0400__CAM_BACK__1533151605037558.jpg"  # 图片文件名
+camera_channel: 'CAM_BACK'  # 相机通道
+save_directory: 'save'  # 保存目录
